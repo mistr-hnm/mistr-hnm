@@ -1,4 +1,4 @@
-# Hi , I'm Hiren
+# Hiren M
 
 **Senior Software Engineer** building scalable backend systems and modern web applications.  
 Passionate about designing clean architectures, scalable systems, and production-ready solutions.
@@ -7,40 +7,22 @@ Passionate about designing clean architectures, scalable systems, and production
 
 ## Tech Stack
 
-### 🖥 Backend
-- Node.js
-- Express.js
-- Fastify
-- NestJS
-- REST APIs
-- Microservices Architecture
+### Backend
+Node.js · Express.js · Fastify · NestJS · REST APIs · Microservices Architecture
 
 ### Databases & Messaging
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
+PostgreSQL · MySQL · MongoDB · Redis
 
 ### Frontend
-- React.js
-- Next.js
-- Angular
-- TypeScript
-- HTML5
-- CSS3
-- Tailwind CSS
+React.js · Next.js · Angular · TypeScript · HTML5 · CSS3 · Tailwind CSS
 
 ### DevOps & Cloud
-- Docker
-- AWS
-- CI/CD Pipelines
-- GitHub Actions
+Docker · AWS · CI/CD Pipelines · GitHub Actions
 
 ---
 
 ## Connect With Me
 
-- 💻 GitHub: [github.com/mistr-hnm](https://github.com/mistr-hnm)
-- 🔗 LinkedIn: [linkedin.com/in/mistrhnm](https://linkedin.com/in/mistrhnm)
-- 📧 Email: [mistrhnm@gmail.com](mailto:mistrhnm@gmail.com)
-
+GitHub: https://github.com/mistr-hnm  
+LinkedIn: https://linkedin.com/in/mistrhnm  
+Email: mistrhnm@gmail.com
