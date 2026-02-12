@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi , I'm Hiren
 
-<!--
-**mistr-hnm/mistr-hnm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Engineer** building scalable backend systems and modern web applications.  
+Passionate about designing clean architectures, scalable systems, and production-ready solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### 🖥 Backend
+- Node.js
+- Express.js
+- Fastify
+- NestJS
+- REST APIs
+- Microservices Architecture
+
+### Databases & Messaging
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
+
+### Frontend
+- React.js
+- Next.js
+- Angular
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### DevOps & Cloud
+- Docker
+- AWS
+- CI/CD Pipelines
+- GitHub Actions
+
+---
+
+## Connect With Me
+
+- 💻 GitHub: [github.com/mistr-hnm](https://github.com/mistr-hnm)
+- 🔗 LinkedIn: [linkedin.com/in/mistrhnm](https://linkedin.com/in/mistrhnm)
+- 📧 Email: [mistrhnm@gmail.com](mailto:mistrhnm@gmail.com)
+
